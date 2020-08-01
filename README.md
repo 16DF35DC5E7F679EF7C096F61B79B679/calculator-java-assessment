@@ -1,1 +1,1 @@
-# potential-waddle
+# calculator-java-assessment
